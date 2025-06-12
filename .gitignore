@@ -4,3 +4,8 @@ pdfs/*
 __pycache__/
 *.pyc
 pdfs_metadata.db
+my-react-app/node_modules/
+my-react-app/dist/
+my-react-app/.env
+my-react-app/.DS_Store
+my-react-app/*.log
