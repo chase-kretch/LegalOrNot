@@ -1,0 +1,6 @@
+.env
+pdfs/*
+!pdfs/.gitkeep
+__pycache__/
+*.pyc
+pdfs_metadata.db
